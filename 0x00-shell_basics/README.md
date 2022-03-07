@@ -1,1 +1,1 @@
-script practicing program
+shell permissions
